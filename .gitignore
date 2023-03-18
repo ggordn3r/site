@@ -1,2 +1,5 @@
 platform.qmd
 _site/platform.html
+
+/.quarto/
+docs/platform.html
