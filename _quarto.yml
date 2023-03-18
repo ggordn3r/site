@@ -17,9 +17,9 @@ format:
     toc: true
 
 # TODO add image (and social icons?) above sidebar
+# TODO custom domain on GH Pages: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages
+
+# website reference: https://quarto.org/docs/reference/projects/websites.html#meta-project-type-upper
 
 # theme options: https://quarto.org/docs/output-formats/html-themes.html
 # for doing custom things: https://quarto.org/docs/output-formats/html-themes-more.html
-
-# publishing with GH Pages: https://quarto.org/docs/publishing/github-pages.html
-# custom domain on GH Pages: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages
