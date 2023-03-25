@@ -3,12 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "Trey Gordner for Ewa Neighborhood Board"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  # title: "Trey Gordner for Ewa Neighborhood Board"
+  # image: [insert yard sign design]
+  # navbar:
+  #   right:
+  #     - href: index.qmd
+  #       text: Home
+  #     - about.qmd
+  #     - platform.qmd
+  sidebar: 
+    title: "Trey Gordner for Ewa Neighborhood Board"
+    contents: auto
+    search: false
+    # icon: https://quarto.org/docs/reference/projects/websites.html#sidebar-tools
+    render: 
+      - index.qmd
+      - experience.qmd
+      - priorities.qmd
 
 format:
   html:

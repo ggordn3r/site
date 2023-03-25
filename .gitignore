@@ -1,5 +1,4 @@
-platform.qmd
-_site/platform.html
-
 /.quarto/
-docs/platform.html
+/strategy/
+reference.md
+strategy/plan.md

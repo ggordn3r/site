@@ -7,5 +7,20 @@
   },
   "platform.qmd": {
     "platform.html": "6f92d077"
+  },
+  "reference.md": {
+    "reference.html": "68a150e0"
+  },
+  "strategy/plan.md": {
+    "plan.html": "a12983ad"
+  },
+  "strategy/reference.md": {
+    "reference.html": "e7fb27fc"
+  },
+  "experience.qmd": {
+    "experience.html": "325136aa"
+  },
+  "priorities.qmd": {
+    "priorities.html": "62461740"
   }
 }
