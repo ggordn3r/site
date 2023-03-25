@@ -17,7 +17,7 @@ website:
   #     - about.qmd
   #     - platform.qmd
   sidebar: 
-    title: "Trey Gordner for Ewa Neighborhood Board"
+    title: "Trey Gordner for Ewa NB"
   #  contents: auto
     search: false
     # icon: https://quarto.org/docs/reference/projects/websites.html#sidebar-tools
