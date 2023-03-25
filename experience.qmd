@@ -2,9 +2,25 @@
 title: "Meet Trey"
 ---
 
-## About/Trey's Story
+# Trey's Story
 Trey learned the importance of public service at an early age from his parents, an Army officer and a teacher. He has 4 younger siblings
 
 - military brat
 - husband/parent
 - civic technologist
+
+# Trey's Background
+
+#### Career
+_IT Project Manager_, U.S. Government, June 2022-Present  
+_Graduate Research Assistant_, Virginia Tech, 2020-2022  
+_Founder & CEO_, Koios Library Software, 2014-2020  
+
+#### Education
+_Master of Urban and Regional Planning_, Virginia Tech, 2019-2022  
+_Bachelor of International Business & Entrepreneurship_, University of South Carolina, 2009-2013  
+
+#### Community service
+_Director_, Hawaii Zoning Atlas  
+_Guest Lecturer_, University of Hawaii  
+_Keiki Ministry Volunteer_, Harbor Church Waipahu  

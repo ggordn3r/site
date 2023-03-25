@@ -1,6 +1,11 @@
 project:
   type: website
+  render: 
+    - "index.qmd"
+    - "!experience.qmd"
+    - "!priorities.qmd"
   output-dir: docs
+  
 
 website:
   # title: "Trey Gordner for Ewa Neighborhood Board"
@@ -13,13 +18,9 @@ website:
   #     - platform.qmd
   sidebar: 
     title: "Trey Gordner for Ewa Neighborhood Board"
-    contents: auto
+  #  contents: auto
     search: false
     # icon: https://quarto.org/docs/reference/projects/websites.html#sidebar-tools
-    render: 
-      - index.qmd
-      - experience.qmd
-      - priorities.qmd
 
 format:
   html:
