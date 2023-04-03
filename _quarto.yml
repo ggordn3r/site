@@ -2,7 +2,7 @@ project:
   type: website
   render: 
     - "index.qmd"
-    - "!experience.qmd"
+    - "experience.qmd"
     - "!priorities.qmd"
   output-dir: docs
   

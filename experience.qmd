@@ -1,15 +1,20 @@
 ---
 title: "Meet Trey"
 ---
+<img src = "trey_at_work.jpg" alt = "The Gordner Family" width = "45%"
+height = "45%"> 
+<img src = "gordner_family_2.jpg" alt = "The Gordner Family" width = "45%" height = "45%">
 
-# Trey's Story
-Trey learned the importance of public service at an early age from his parents, an Army officer and a teacher. He has 4 younger siblings
+## Trey's Story
+Trey was born in 1990 to two public servants: Marv, then a young Army officer, and Kim, a special education teacher. From an early age, Trey enjoyed advocating for his peers through student government. He graduated near the top of his class from Jack Britt High School in Hope Mills, North Carolina, and was honored with the statewide DAR Good Citizen Award that same year.
 
-- military brat
-- husband/parent
-- civic technologist
+Trey studied international business in college with the goal of helping nonprofits become more effective and efficient. Along the way, though, he became interested in starting his own business that would make the world a better place. Two years after graduation, he founded Koios Library Software, which he ran for 6 years, growing it from an idea (to help public libraries reach their communities through Google) to a successful small business with 40 clients in the U.S. and Canada.
 
-# Trey's Background
+Inspired by the intelligence and determination of the librarians he met, Trey returned to the classroom for a "deep dive" into the workings of state and local government, focusing on land use, housing, and technology. During this time, he also worked as a researcher in economic development, helping distressed communities create more opportunity for local residents. After graduation, Trey began a two-year fellowship that uses his technology skills to help create a more effective, equitable Federal government.
+
+He met his wife, Andrea--a fellow public servant--at an engagement party for mutual friends in 2014, and they were married in 2016. Their son, Winston, was born at Queens in October.
+
+## Trey's Background
 
 #### Career
 _IT Project Manager_, U.S. Government, June 2022-Present  
@@ -22,5 +27,6 @@ _Bachelor of International Business & Entrepreneurship_, University of South Car
 
 #### Community service
 _Director_, Hawaii Zoning Atlas  
+_Volunteer_, Code for Hawaii  
 _Guest Lecturer_, University of Hawaii  
 _Keiki Ministry Volunteer_, Harbor Church Waipahu  
