@@ -3,7 +3,7 @@ project:
   render: 
     - "index.qmd"
     - "experience.qmd"
-    - "!priorities.qmd"
+    - "priorities.qmd"
   output-dir: docs
   
 
