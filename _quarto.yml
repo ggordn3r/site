@@ -18,7 +18,7 @@ website:
   #     - platform.qmd
   sidebar: 
     title: "Trey Gordner for Ewa NB"
-  #  contents: auto
+    contents: auto
     search: false
     # icon: https://quarto.org/docs/reference/projects/websites.html#sidebar-tools
 
@@ -29,7 +29,6 @@ format:
     toc: true
 
 # TODO add image (and social icons?) above sidebar
-# TODO custom domain on GH Pages: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/about-custom-domains-and-github-pages
 
 # website reference: https://quarto.org/docs/reference/projects/websites.html#meta-project-type-upper
 
