@@ -3,7 +3,7 @@ title: "Meet Trey"
 ---
 <img src = "trey_at_work.jpg" alt = "The Gordner Family" width = "45%"
 height = "45%"> 
-<img src = "gordner_family_2.jpg" alt = "The Gordner Family" width = "45%" height = "45%">
+<img src = "gordner_family_2.jpg" alt = "The Gordner Family" width = "45%" height = "45%">  
 
 ## Trey's Story
 Trey was born in 1990 to two public servants: Marv, then a young Army officer, and Kim, a special education teacher. From an early age, Trey enjoyed advocating for his peers through student government. He graduated near the top of his class from Jack Britt High School in Hope Mills, North Carolina, and was honored with the statewide DAR Good Citizen Award that same year.
@@ -30,3 +30,6 @@ _Director_, Hawaii Zoning Atlas
 _Volunteer_, Code for Hawaii  
 _Guest Lecturer_, University of Hawaii  
 _Keiki Ministry Volunteer_, Harbor Church Waipahu  
+
+##
+_Left image photo credit: [Nostaljic Photography](https://www.instagram.com/nostaljicphotography/)_
