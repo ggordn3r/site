@@ -9,7 +9,7 @@ project:
 
 website:
   # title: "Trey Gordner for Ewa Neighborhood Board"
-  # image: [insert yard sign design]
+  # image: TG_1-color_website.png
   # navbar:
   #   right:
   #     - href: index.qmd
@@ -18,8 +18,10 @@ website:
   #     - platform.qmd
   sidebar: 
     title: "Trey Gordner for Ewa NB"
+    # logo: TG_1-color_website.png
     contents: auto
     search: false
+    
     # icon: https://quarto.org/docs/reference/projects/websites.html#sidebar-tools
 
 format:

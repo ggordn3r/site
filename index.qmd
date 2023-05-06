@@ -10,7 +10,9 @@ height = "60%">
 I am running for our neighborhood board because I'd like to help our community tackle some of our [most pressing issues](priorities.qmd), including homelessness, traffic, and jobs. I'm also eager to hear about your hopes and concerns--you can always reach me at `trey@gogordner.com`. 
 
 I believe that my [experience](experience.qmd) as an advocate for affordable housing, urban planning researcher, and small business owner can help our community grow more sustainably and create more opportunity for our residents.
- 
+
+<img src = "TG_1-color.png" alt = "Yard Sign/Logo: Trey Gordner for Ewa Neighborhood Board" height = "100%" width = "100%">
+
 ## :ballot_box: How to Vote
 Voting begins **April 28** and ends **May 19**.  
 
