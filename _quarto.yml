@@ -8,7 +8,7 @@ project:
   
 
 website:
-  # title: "Trey Gordner for Ewa Neighborhood Board"
+  # title: "Trey Gordner - Ewa Neighborhood Board"
   # image: TG_1-color_website.png
   # navbar:
   #   right:
@@ -17,7 +17,7 @@ website:
   #     - about.qmd
   #     - platform.qmd
   sidebar: 
-    title: "Trey Gordner for Ewa NB"
+    title: "Trey Gordner - Ewa NB Member"
     # logo: TG_1-color_website.png
     contents: auto
     search: false

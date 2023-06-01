@@ -6,21 +6,12 @@ from: markdown+emoji
 <img src = "gordner_family.jpg" alt = "The Gordner Family" width = "60%"
 height = "60%">
 
-# Hi, neighbor! I'm Trey. :raising_hand_man: 
-I am running for our neighborhood board because I'd like to help our community tackle some of our [most pressing issues](priorities.qmd), including homelessness, traffic, and jobs. I'm also eager to hear about your hopes and concerns--you can always reach me at `trey@gogordner.com`. 
+# Hi, neighbor! I'm Trey. :raising_hand_man:
+I currently serve on the Ewa Neighborhood Board because I'd like to help our community tackle some of our [most pressing issues](priorities.qmd), including homelessness, traffic, and jobs. I'm also eager to hear about your hopes and concerns--you can always reach me at `trey@gogordner.com`. 
 
-I believe that my [experience](experience.qmd) as an advocate for affordable housing, urban planning researcher, and small business owner can help our community grow more sustainably and create more opportunity for our residents.
+I believe that my [experience](experience.qmd) as an advocate for affordable housing, urban planning researcher, and small business owner will help our community grow more sustainably and create more opportunity for our residents.
 
-<img src = "TG_1-color.png" alt = "Yard Sign/Logo: Trey Gordner for Ewa Neighborhood Board" height = "100%" width = "100%">
-
-## :ballot_box: How to Vote
-Voting begins **April 28** and ends **May 19**.  
-
-In Neighborhood Board elections, **voting is online-only at this website**: [https://web1.hnl.info/nbe/starter](https://web1.hnl.info/nbe/starter). Registered voters will receive a passcode in the mail.  
-
-For more information, visit the official [Election FAQs](https://www.honolulu.gov/cms-nco-menu/site-nco-sitearticles/18327-election-faqs.html).
-
-[**Am I in Ewa 23? Check this Map.**](https://www.honolulu.gov/rep/site/nco/maps/23_Ewa.jpg)
+[**Not sure if you live in the Ewa 23 area? Check this Map.**](https://www.honolulu.gov/rep/site/nco/maps/23_Ewa.jpg)
 
 ## :loudspeaker: Get Involved
 ```{=html}
@@ -34,7 +25,7 @@ For more information, visit the official [Election FAQs](https://www.honolulu.go
 <div id="mc_embed_signup">
     <form action="https://gogordner.us21.list-manage.com/subscribe/post?u=6d957dfb96d1d8a4d32afaf95&amp;id=fa0c0882b7&amp;f_id=00ae94e1f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
-        <h2>Subscribe to Campaign Updates</h2>
+        <h2>Subscribe to Trey's Updates</h2>
         <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
